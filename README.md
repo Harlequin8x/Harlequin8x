@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harlequin8x
-- 👀 I’m interested in Coding,, Music Production, Games, Anime
-- 🌱 I’m currently learning Java, after that C#
+- 👀 I’m interested in Coding, Music, Games, Animes
+- 🌱 I’m currently learning WPF and ASP.NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
