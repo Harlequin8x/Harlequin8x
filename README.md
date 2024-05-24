@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harlequin8x
-- 👀 I’m interested in Coding, Music, Games, Animes
+- 👀 I’m interested in Coding and Music
 - 🌱 I’m currently learning Java and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
